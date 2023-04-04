@@ -3,12 +3,12 @@
 |Pin number|Name|
 |------|---|
 |6|LED1|
-|7|Button1|
-|8|Button2|
+|7|버튼1|
+|8|버튼2|
 |9|LED2|
 |10|LED3|
-|11|Piezo|
-|A0|가변저항|
+|11|피에조(소리)|
+|A0|가변저항기(조절기)|
 
 ## LED 
 * Basics -> Blink 
