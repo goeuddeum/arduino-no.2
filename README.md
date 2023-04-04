@@ -1,5 +1,6 @@
 # 아두이노 연습용개발도구
-![Super Wolt-Duup](https://user-images.githubusercontent.com/125548154/229676772-faa896aa-31d3-4932-a7f2-bdae015342d3.png)
+![개발도구](https://user-images.githubusercontent.com/125548154/229678123-db162a13-e7c4-4dab-8533-d5924134d2d3.png)
+
 |Pin number|Name|
 |------|---|
 |6|LED1|
